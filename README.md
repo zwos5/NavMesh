@@ -1,5 +1,5 @@
 # NavMesh
-Assignment 6 for CS4223 Game Programming Spring 2023 Modified NavMesh tutorial from Brackeys (specifically the LowMan scene).
+Assignment 6 for CS4223 Game Programming Spring 2023 Modified NavMesh tutorial from Brackeys (in specific the LowMan scene).
 
 ## Modifications Made
 1. Create rewards that can be picked up
