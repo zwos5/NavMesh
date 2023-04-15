@@ -8,7 +8,7 @@ public class ChangeScene : MonoBehaviour
 {
     public void LoadLowMan()
     {
-        SceneManager.LoadScene("Example 5 - LowMan");
+        SceneManager.LoadScene("Example05 - LowMan");
     }
 
     public static void GameOver()
